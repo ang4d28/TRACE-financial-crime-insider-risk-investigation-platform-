@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TRACE
 
 Transaction and Risk Audit with Calling Engine. TRACE is a working hackathon demo for investigating suspicious transaction patterns through evidence, relationship graphs, timelines, verification calls, and live metrics.
@@ -108,3 +109,7 @@ cd backend
 
 - API: FastAPI, SQLAlchemy, Alembic, SQLite, NetworkX
 - UI: Vite, React, TypeScript, Tailwind, React Router, react-force-graph-2d
+=======
+# TRACE-financial-crime-insider-risk-investigation-platform-
+Financial crime &amp; insider risk investigation platform — hackathon build with explainable alerts and an AI verification calling agent
+>>>>>>> 80ed4e0e07522c7aa8cc835bacb509513bd5cbcc
